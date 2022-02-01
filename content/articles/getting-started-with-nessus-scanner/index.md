@@ -1,17 +1,23 @@
 ---
-title: Getting Started with Nessus Scanner.
-description: Nessus scanner is the most popular and widely used vulnerability scanner common among penetration testers and hackers. It is open source and it alow free scan for up to 16 Private Addresses at a time. 
----
+layout: engineering-education
+status: publish
+published: true
+url: /getting-started-with-nessus-scanner/
+title: Getting Started with Nessus Scanner
+description: Nessus scanner is the most popular and widely used vulnerability scanner common among penetration testers and hackers. It is open-source and it allows free scan for up to 16 Private Addresses at a time. 
+author: adeshina-peter
+date: 2022-01-27T00:00:00-17:00
+topics: [Security]
+excerpt_separator: <!--more-->
+images:
 
+  - url: /engineering-education/getting-started-with-nessus-scanner/hero.jpg
+    alt: Getting Started with Nessus Scanner Hero Image
+---
 **Nessus Tenable** is a kali-Linux open-source software common among penetration testers, used to provide a variety of security fixes. You are going to be using this tool quite frequently while you work as a pen-tester by scanning for potential vulnerability on a Server/Website.
 <!--more-->
-
 **Nessus** scanner is a professional tool that is widely used among hackers and penetration testers. The solution you get assists you to perform high-speed asset discovery, target profiling, malware detection, sensitive data discovery and so many more.
-
-
 **Tenable** delivers updated plug-ins that provide you with the latest information to customers within 24 hours after a vulnerability has been leaked.
-
-
 **Nessus Tenable** grant you the privileges to scan basic networks and servers for free, and also provide you with how **critical**,**medium** or how **low** a vulnerability is and helps provide descriptions and solutions for a fix.
 
 Most sites that talk about Nessus only point out how Nessus is being installed and how it is been used, But how to fix a real vulnerability is hardly in the scope of what they teach. I will show you how to fix a common vulnerability and also guide you through important Nessus keywords.
@@ -223,13 +229,12 @@ In this article we have learned how to:
 
 * Scan a targeted host and fix the vulnerability with the solution provided to us.
 
+### Conclusion
+From this article, we have learned how to find vulnerabilities and fix them with the solution provided in the scan. There is no way we touch all of this assessment and fix all the vulnerabilities, so let's focus on the low-hanging fruit. So please do go look at your Nessus scan results in the information that is provided to you because it is super important.
+
 ### References and Further Reading
-
 1.  [A complete guide to Nmap tutorial](https://www.edureka.co/blog/nmap-tutorial/).
-
 2. [Netcat Complete Guide](https://www.kalilinux.in/2021/01/netcat-linux-tutorial.html).
 
-
-### Conclusion
-From this article, we have learned how to find vulnerabilities and fix them with the solution provided in the scan.
-There is no way we touch all of this assessment and fix all the vulnerabilities, so let's focus on the low-hanging fruit. So please do go look at your Nessus scan results in the information that is provided to you because it is super important.
+---
+Peer Review Contributions by: [Willies Ogola](/engineering-education/authors/willies-ogola/)
